@@ -1,0 +1,34 @@
+* {
+
+}
+
+/*style for body*/
+body {
+	 font-family: "Sour Gummy", serif;
+	 font-optical-sizing: auto;
+ 	 font-weight: <weight>;
+	 font-style: normal;
+	 font-variation-settings:
+     "wdth" 100;
+     background-size: 75%;
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5JBYnHXaJJ8FriGRO0-_Kms3dv431AA_8mg&s);
+ }
+
+
+/*style for image*/
+img {
+	width: 110px;
+}
+
+/*style for anchor*/
+a {
+	color: white;
+}
+
+/*style for footer*/
+.footer {
+	background-color: black;
+	text-align: center;
+	padding: 7.5px;
+	color: white;
+}
